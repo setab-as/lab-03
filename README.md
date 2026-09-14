@@ -7,9 +7,9 @@
 
 ## References and Resources
 
-- Claude (Anthropic), Sept 14 2026 — explained the "Smart cast to 'City' is
+- Claude (Anthropic), Sept 14 2026: explained the "Smart cast to 'City' is
   impossible, because 'selectedCity' is a delegated property" error and its fix.
 
 ## Verbal Collaboration
 
-'N/A'
+N/A

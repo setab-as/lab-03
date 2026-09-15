@@ -7,11 +7,9 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- Claude (Anthropic), Sept 14 2026: explained the "Smart cast to 'City' is
+  impossible, because 'selectedCity' is a delegated property" error and its fix.
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A

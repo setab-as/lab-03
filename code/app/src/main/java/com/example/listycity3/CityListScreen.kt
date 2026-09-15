@@ -139,6 +139,7 @@ fun CityListScreen(
                 Button(
                     modifier = Modifier.padding(vertical = 12.dp),
                     onClick = {
+                        // Smart-cast fix: "How do i fix a smart cast is impossible bug" suggested by Claude, Anthropic, 2026-09-14.
                         val previousCity = selectedCity
                         if (previousCity != null && editCityName.isNotBlank() && editProvinceName.isNotBlank()
                         ) {
